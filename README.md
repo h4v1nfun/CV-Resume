@@ -4,4 +4,4 @@ O CV completo está no ficheiro cv.pdf
 
 Full Resumé is in file cv.pdf
 
-## Made in LaTeX using XeLaTeX 
+## Made in LaTeX using moderncv package
